@@ -8,9 +8,6 @@ import (
 	rpch "github.com/tidusant/chadmin-repo/cuahang"
 	"github.com/tidusant/chadmin-repo/models"
 
-	//	"c3m/common/inflect"
-	//	"c3m/log"
-
 	"flag"
 	"fmt"
 	"net"
